@@ -1,3 +1,6 @@
+// console.log('%c asdasd', 'color:red; font-size:25px; font-weight:bold')
+
+
 // EXAMINE THE DOCUMENT OBJECT //
 
 //  console.dir(document);
